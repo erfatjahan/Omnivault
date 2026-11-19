@@ -1,7 +1,7 @@
 # Agent Context & Instructions
 
 ## Project Overview
-- **Name**: Omnivault (Multi-Vendor E-Commerce Platform)
+- **Name**: Omnivault
 - **Primary Owner / Lead**:Most.Erfat jahan ekra
 - **Role**: Full-stack Software Engineer and system architect.
 
